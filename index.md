@@ -35,6 +35,8 @@ Brief description of what this project does and the technologies used.
 - **Technologies:** React, Node.js
 - **Link:** [View Project](link-to-project)
 
+**[View All Projects](/projects)** → Browse my complete projects collection and JSON API
+
 ---
 
 ## Skills
