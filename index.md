@@ -4,9 +4,11 @@ layout: default
 description: Welcome to my professional portfolio showcasing my projects and expertise
 ---
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+
 # Welcome to My Portfolio 👋
 
-I'm **icivoryable**, a developer passionate about creating impactful projects. Explore my work, skills, and experiences below.
+I'm **Ian Ivory**, a developer, founder, and business analyst passionate about creating impactful projects that help the neurodivergent community. Explore my work, skills, and experiences below.
 
 ---
 
