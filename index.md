@@ -1,3 +1,67 @@
 ---
-title: Welcome to my blog!
+title: My Portfolio
+layout: default
+description: Welcome to my professional portfolio showcasing my projects and expertise
 ---
+
+# Welcome to My Portfolio 👋
+
+I'm **icivoryable**, a developer passionate about creating impactful projects. Explore my work, skills, and experiences below.
+
+---
+
+## About Me
+
+I'm a dedicated developer with a focus on building meaningful solutions. This portfolio showcases my projects, skills, and professional journey.
+
+---
+
+## Featured Projects
+
+### Project 1: [Your Project Title]
+Brief description of what this project does and the technologies used.
+- **Technologies:** HTML, CSS, JavaScript
+- **Link:** [View Project](link-to-project)
+
+### Project 2: [Your Project Title]
+Brief description of what this project does and the technologies used.
+- **Technologies:** Python, Django
+- **Link:** [View Project](link-to-project)
+
+### Project 3: [Your Project Title]
+Brief description of what this project does and the technologies used.
+- **Technologies:** React, Node.js
+- **Link:** [View Project](link-to-project)
+
+---
+
+## Skills
+
+- **Languages:** JavaScript, Python, HTML, CSS
+- **Frameworks:** React, Django, Jekyll
+- **Tools:** Git, GitHub, VS Code
+- **Other:** Responsive Design, REST APIs, Database Design
+
+---
+
+## Experience
+
+### Role Title at Company
+*Month Year - Present*
+Brief description of responsibilities and achievements.
+
+### Previous Role at Company
+*Month Year - Month Year*
+Brief description of responsibilities and achievements.
+
+---
+
+## Let's Connect
+
+- **GitHub:** [@icivoryable](https://github.com/icivoryable)
+- **Email:** [your.email@example.com](mailto:your.email@example.com)
+- **LinkedIn:** [Your Profile](link-to-linkedin)
+
+---
+
+*Built with Jekyll and GitHub Pages*
