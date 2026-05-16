@@ -21,13 +21,16 @@ Passionate about the intersection of technology and accessibility, I'm dedicated
 ## Technical Skills
 
 **Languages**
-JavaScript, Python, Ruby, HTML, CSS
+JavaScript, Python, Ruby, HTML, CSS, R 
 
 **Frameworks & Libraries**
 React, Django, Jekyll, Node.js
 
 **Tools & Platforms**
 Git, GitHub, VS Code, PostgreSQL, REST APIs
+
+**Business Intelligence**
+Power Bi, Tableau
 
 **Specialties**
 Responsive Design, Web Development, Database Design, Accessible Interfaces (WCAG), Inclusive UX
@@ -59,6 +62,13 @@ My work showcases a focus on creating impactful, well-built solutions:
 ## Professional Experience
 
 *Your professional experience details go here. Share roles, companies, key achievements, and impact made.*
+
+Professional Experience
+Role Title at Company
+Month Year - Present Brief description of responsibilities and achievements in this role.
+
+Previous Role at Company
+Month Year - Month Year Brief description of responsibilities and achievements in this role.
 
 ---
 
