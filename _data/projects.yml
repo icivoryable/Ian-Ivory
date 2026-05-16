@@ -1,0 +1,35 @@
+projects:
+  - name: "Accessible Task Manager"
+    url: "https://github.com/icivoryable/accessible-task-manager"
+    description: "A fully accessible task management app built with React and Django, featuring screen reader support and keyboard navigation for neurodivergent users."
+    language: "React, Python, Django"
+    stars: 45
+    updated: "2026-04-20"
+
+  - name: "Inclusive Design Toolkit"
+    url: "https://github.com/icivoryable/inclusive-design-toolkit"
+    description: "A collection of reusable components and patterns for building WCAG-compliant interfaces with accessibility best practices."
+    language: "JavaScript, CSS, HTML"
+    stars: 28
+    updated: "2026-03-15"
+
+  - name: "Neurodivergent Resource Hub"
+    url: "https://github.com/icivoryable/neurodivergent-hub"
+    description: "A community-driven platform connecting neurodivergent individuals with resources, support, and opportunities."
+    language: "Ruby on Rails, PostgreSQL"
+    stars: 67
+    updated: "2026-02-10"
+
+  - name: "WCAG Validator"
+    url: "https://github.com/icivoryable/wcag-validator"
+    description: "Automated tool for checking web accessibility compliance and generating detailed reports with improvement suggestions."
+    language: "Node.js, JavaScript"
+    stars: 33
+    updated: "2026-01-28"
+
+  - name: "Sensory-Friendly UI Library"
+    url: "https://github.com/icivoryable/sensory-friendly-ui"
+    description: "A React component library with motion-reduced animations, high contrast modes, and customizable sensory settings for neurodivergent users."
+    language: "React, TypeScript, CSS"
+    stars: 52
+    updated: "2026-05-10"
