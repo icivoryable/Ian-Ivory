@@ -1,1 +1,6 @@
 theme: jekyll-theme-slate
+
+sass:
+  style: compressed
+plugins:
+  - jekyll-minifier
