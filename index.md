@@ -82,7 +82,7 @@ I'm committed to building community-driven solutions. Check out my GitHub for co
 
 - **GitHub:** [@icivoryable](https://github.com/icivoryable)
 - **Email:** ivory.ian.c@gmail.com
-- **LinkedIn:** [Connect with me](#linkedin.com/in/ian-ivory)
+- **LinkedIn:** [Connect with me](https:/www.linkedin.com/in/ian-ivory)
 
 ---
 
