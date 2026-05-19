@@ -1,12 +1,12 @@
 ---
-title: Ian Ivory - Developer Portfolio
-description: Full-stack developer building accessible, inclusive digital experiences for the neurodivergent community
+title: Ian Ivory - Analyst & Developer Portfolio
+description: Business Analyst and building accessible, inclusive digital experiences for the neurodivergent community
 keywords: web development, accessibility, react, python, inclusive design
 layout: default
 ---
 
 # Ian Ivory
-**Full-Stack Developer | Accessibility Advocate | Neurodivergent Community Builder**
+**Analyst | Accessibility Advocate | Neurodivergent Community Builder**
 
 I build inclusive, accessible web applications that empower neurodivergent users. With expertise in modern web technologies, I focus on creating digital experiences that work for everyone—combining technical excellence with intentional design.
 
@@ -81,7 +81,7 @@ I'm committed to building community-driven solutions. Check out my GitHub for co
 ## Get in Touch
 
 - **GitHub:** [@icivoryable](https://github.com/icivoryable)
-- **Email:** ivory.ian.c@gmail.com
+- **Email:** ian05@atomicmail.io
 - **LinkedIn:** [Connect with me](https://www.linkedin.com/in/ian-ivory)
 
 ---
